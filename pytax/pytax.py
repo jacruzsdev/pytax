@@ -1,3 +1,4 @@
 # -*- coding: utf-8 -*-
-
-"""Main module."""
+def calc_tax(price,tax):
+    full_price = (price*tax)+price
+    return full_price
