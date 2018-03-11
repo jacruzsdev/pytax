@@ -26,6 +26,8 @@ Python package to calculate price with TAX
 Features
 --------
 
+Receiving price and TAX percentage, the response is your price after TAX
+
 * TODO
 
 Credits
